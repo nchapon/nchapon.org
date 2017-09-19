@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turc Mécanique</title>
+      <link>http://example.org/posts/turc-mecanique/</link>
+      <pubDate>Tue, 29 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/turc-mecanique/</guid>
+      <description>L&amp;rsquo;entreprise Amazon.com s&amp;rsquo;est lancé dans ce qu&amp;rsquo;ils appellent l&amp;rsquo;IA artificielle en proposant un service (en version beta) bien particulier.
+L&amp;rsquo;intelligence artificielle artificielle c&amp;rsquo;est quoi ?
+Selon le service d&amp;rsquo;Amazon.com c&amp;rsquo;est tout ce qu&amp;rsquo;un être humain peut faire de mieux qu&amp;rsquo;un ordinateur ! En gros vous posez une question (par exemple, quels sont les meilleurs restaurants de Seattle ?) et un internaute vous répond en gagnant au passage quelques centimes de dollar&amp;hellip; La rétribution est fonction de la question et a lieu uniquement si le client est satisfait de la réponse fournie.</description>
+    </item>
+    
+    <item>
+      <title>Java libéré en octobre ?</title>
+      <link>http://example.org/posts/java-libere-en-octobre/</link>
+      <pubDate>Wed, 16 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/java-libere-en-octobre/</guid>
+      <description>L&amp;rsquo;entrée du langage Java dans le monde open source se précise : Sun promet de mettre le compilateur Java (javac) ainsi que sa JVM en open source à partir d&amp;rsquo;Octobre 2006. Le JDK (librairies Java) serait disponible en open source à priori avant la fin 2007.
+Pour l&amp;rsquo;instant, on ne sait pas sous quel type de licence sera publié Java mais le site officiel de la communauté open source java est déja disponible.</description>
+    </item>
+    
+    <item>
+      <title>Callisto est arrivé</title>
+      <link>http://example.org/posts/callisto-est-arrive/</link>
+      <pubDate>Fri, 30 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/callisto-est-arrive/</guid>
+      <description>La version 3.2 de la plate forme de développement Eclipse est téléchargeable ici depuis aujourd&amp;rsquo;hui (enfin plutôt ce soir), cette nouvelle version sort le même jour que Callisto qui est en fait une sorte de release simultanÃ©e des principaux plugins open source Eclipse : WTP, BIRT, TPTP, Visual Editor&amp;hellip; (la liste complète est ici) Après avoir récuperé la version 3.2, un petit tour vers le gestionnaire de plugins, on selectionne Callisto et le tour est joué, on peut récupérer nos plugins sans avoir à se soucier des problèmes de dépendances qui parfois rendaient la cohabitation des plugins délicate.</description>
+    </item>
+    
+    <item>
+      <title>PJ de retour</title>
+      <link>http://example.org/posts/pj-de-retour/</link>
+      <pubDate>Wed, 10 May 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pj-de-retour/</guid>
+      <description>[](http://fr.wikipedia.org/wiki/Pearl_Jam)
+
+[](http://fr.wikipedia.org/wiki/Pearl_Jam)
+Pearl Jam vient de sortir un nouvel album et je dois dire que cela fait longtemps qu&amp;rsquo;on a pas vu un album d&amp;rsquo;une telle qualité : Eddie Vedder est toujours au top, des textes toujours aussi engagés (World Wide Suicide, Gone &amp;hellip;) avec comme d&amp;rsquo;habitude une critique très sévère de l&amp;rsquo;administration Bush (le président qui signe des chèques que d&amp;rsquo;autres paient - World Wide Suicide), on n&amp;rsquo;est pas loin de retrouver la force de leurs premiers albums !</description>
+    </item>
+    
+  </channel>
+</rss>
